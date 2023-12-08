@@ -1,2 +1,2 @@
 # CP3-Jakrin-Yingnansuk
-Exercise4_Jakrin_Y.py
+ตัวอย่าง Repository คอร์สเรียน Complete Python 3 Programing โดย BorntoDev Co.,Ltd.
